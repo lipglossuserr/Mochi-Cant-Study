@@ -246,27 +246,37 @@ mvn test
 
 ---
 
-# 📸 Screenshots
+# 📸 Screenshots of the important applications
 
-Home
+~Cat Home
 
 <img width="1870" height="901" alt="image" src="https://github.com/user-attachments/assets/777661fa-fc27-4143-b93e-d634b24778e6" /> 
 
+---
+---
 
-Study Room
+
+~Study Room
 
 <img width="1902" height="905" alt="image" src="https://github.com/user-attachments/assets/f0657163-4bd9-43a0-af96-b05f20b26152" /> 
 
+---
+---
 
-FlashCard
+
+~FlashCard
 
 <img width="1862" height="902" alt="image" src="https://github.com/user-attachments/assets/4da288ba-c9e3-4c6a-a128-d927601a4c77" />
 
-Shop
+---
+---
+
+~Shop
 
 <img width="1866" height="896" alt="image" src="https://github.com/user-attachments/assets/d9a42f6d-8afb-404a-ab6a-02aaf9d7d8f3" /> 
 
-
+---
+---
 
 
 
@@ -326,7 +336,7 @@ This project is developed for educational and research purposes.
 
 # 👨‍💻 Author
 
-**Samia Tasmim
+**Samia Tasmim & 
 Mujna Sabihat**
 
 Built with ❤️ using React, Spring Boot, Firebase, and modern web technologies.
