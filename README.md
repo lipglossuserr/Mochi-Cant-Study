@@ -1,7 +1,7 @@
 ﻿# mochi-can-t-study
 
 
-Mochi is a modern study companion platform designed to help users build better learning habits through a combination of productivity tools, virtual companionship, community interaction, and realtime collaboration.
+MochiCan'tStudy is a modern study companion platform designed to help users build better learning habits through a combination of productivity tools, virtual companionship, community interaction, and realtime collaboration.
 
 The platform combines a virtual pet experience with study tracking, focus sessions, goals, community rooms, and live co-study environments to make learning more engaging and consistent.
 
