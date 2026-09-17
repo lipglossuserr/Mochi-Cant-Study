@@ -258,7 +258,8 @@ mvn test
 
 ~Study Room
 
-<img width="1902" height="905" alt="image" src="https://github.com/user-attachments/assets/f0657163-4bd9-43a0-af96-b05f20b26152" /> 
+<img width="1871" height="906" alt="image" src="https://github.com/user-attachments/assets/3ad42152-5f67-4b39-9e35-2eb17b190996" /> 
+
 
 ---
 
