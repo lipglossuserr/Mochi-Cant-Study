@@ -319,7 +319,7 @@ git push origin feature/new-feature
 
 # 📄 License
 
-This project is developed for educational and research purposes.
+This project is developed as Visual Programming (CSE 4402) Lab coursework.
 
 ---
 
