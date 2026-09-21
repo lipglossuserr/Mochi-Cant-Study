@@ -6,6 +6,11 @@ MochiCan'tStudy is a modern study companion platform designed to help users buil
 The platform combines a virtual pet experience with study tracking, focus sessions, goals, community rooms, and live co-study environments to make learning more engaging and consistent.
 
 ---
+# ✨ Youtube presentation link
+
+https://youtu.be/dl7idu3t--U
+
+---
 
 ## ✨ Features
 
