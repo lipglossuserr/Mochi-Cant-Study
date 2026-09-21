@@ -366,8 +366,8 @@ This project is developed as Visual Programming (CSE 4402) Lab coursework.
 
 # 👨‍💻 Author
 
-**Samia Tasmim & 
-Mujna Sabihat**
+**Samia Tasmim -230041202 & 
+Mujna Sabihat -230041214**
 
 Built with ❤️ using React, Spring Boot, Firebase, and modern web technologies.
 
