@@ -275,27 +275,42 @@ mvn test
 ~Shop
 
 <img width="1866" height="896" alt="image" src="https://github.com/user-attachments/assets/d9a42f6d-8afb-404a-ab6a-02aaf9d7d8f3" /> 
+---
 
-
-~Goals
+~Daily Goals
 <img width="1780" height="777" alt="image" src="https://github.com/user-attachments/assets/6b0f0497-22d5-4b01-9650-12ec4c82b39a" />
+
 <img width="566" height="552" alt="image" src="https://github.com/user-attachments/assets/d7be4f50-9d78-4992-9fc4-02fa2cfc4357" />
 
-
+---
 ~Community_rooms
+
 <img width="1369" height="717" alt="image" src="https://github.com/user-attachments/assets/e7e9915c-95f8-4580-b97d-43a6fde8d056" />
+
 <img width="951" height="813" alt="image" src="https://github.com/user-attachments/assets/5dbbd824-ddab-4f0e-9ada-c9960bd974aa" />
 
+---
+
 ~Achievements
+
 <img width="956" height="515" alt="image" src="https://github.com/user-attachments/assets/a823da84-09f0-4a31-bb48-856235365a62" />
 
+---
+
 ~Leaderboard
+
 <img width="967" height="719" alt="image" src="https://github.com/user-attachments/assets/25cc860e-e742-4543-8f0f-bf47be28fb78" />
 
+---
+
 ~Book of secrets
+
 <img width="616" height="760" alt="image" src="https://github.com/user-attachments/assets/2088294a-4928-429d-9ffd-74c3244463c6" />
 
+---
+
 ~Study_with_others
+
 <img width="1332" height="612" alt="image" src="https://github.com/user-attachments/assets/6ce7bd39-a76b-4c5c-8c57-025fb1cbabbb" />
 
 
