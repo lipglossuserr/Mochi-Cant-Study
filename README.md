@@ -8,7 +8,7 @@ The platform combines a virtual pet experience with study tracking, focus sessio
 ---
 # ✨ Youtube presentation link
 
-https://youtu.be/dl7idu3t--U
+https://youtu.be/LU6YuxU3kzw
 
 ---
 
