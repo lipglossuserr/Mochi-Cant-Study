@@ -372,5 +372,6 @@ Mujna Sabihat -230041214**
 Built with ❤️ using React, Spring Boot, Firebase, and modern web technologies.
 
 Live Deploy Link- https://mochi-cce66.web.app/login
+(might go inactive due to free database)
 
 
